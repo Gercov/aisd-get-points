@@ -34,11 +34,11 @@ public class Main {
 
 
         //BucketSort
-        int[] array = new int[1000];
+        /*int[] array = new int[1000];
         for (int i = 0; i < 1000; i++) {
             array[i] = (int) (Math.random()*100000);
         }
         int[] sortArray = BucketSortIteration.sort(array);
-        System.out.println(BucketSortIteration.iteration);
+        System.out.println(BucketSortIteration.iteration);*/
     }
 }
